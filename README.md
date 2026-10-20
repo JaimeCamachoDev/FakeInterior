@@ -21,3 +21,10 @@
 ## Usage
 
 Apply the FakeInterior shader/material to building window geometry and adjust the exposed parameters to control the fake room depth, tiling, parallax intensity, and visual variation.
+
+## Contenido
+
+* **Shaders HLSL:** `FakeInterior`
+* **Scripts:** `RotateYaw`
+* **Prefabs:** `Fake Interior`
+* **Escenas:** `Assets/3-Scenes/Main.unity`
